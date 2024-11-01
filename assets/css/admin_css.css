@@ -1,0 +1,28 @@
+.wps-presentation-color-repeater .color-repeater-row{
+	display: flex;
+}
+.wps-presentation-color-repeater  .wpsc_color_remove_color{
+	padding:4px 10px;
+	border: 1px solid #c8c8c8;
+	line-height: 4px;
+	background: #ffffff;
+	color: #5c5c5c;
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+.wps-presentation-color-repeater label{
+	margin-right:8px;
+}
+
+.wps_adming_area{
+	background:#fff;
+	padding:30px;
+}
+
+.wps_adming_area textarea {width: 100%;background: #000000;color: #fff;}
+
+.icon_input {
+    border-bottom:1px solid #e0dede;
+	margin-bottom:0px;
+	padding-bottom:20px;
+}
